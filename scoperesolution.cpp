@@ -14,6 +14,4 @@ cout << "::assign " << ::assign << '\n';  //assign = 50
 }
 cout << "assign " << assign << '\n'; //assign = 500
 cout << "::assign " << ::assign << '\n';  //assign = 50
-
-
 }
